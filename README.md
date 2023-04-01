@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Hi!&desc=It's%202oo1's%20Github&fontSize=42&fontAlignY=22&fontAlign=50&descfontsize=33&descAlignY=40&descAlign=50&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Hi%20!&desc=It's%202oo1's%20Github&fontSize=42&fontAlignY=22&fontAlign=50&descfontsize=33&descAlignY=40&descAlign=50&&animation=twinkling)
 <div align=center>
   - 🌱 I’m currently learning Python & React
   <h4><b>📚 Languages 📚</b></h4>
