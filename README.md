@@ -14,7 +14,7 @@
   
   <h4><b>🌐 Social 🌐</b></h4>
   <a href="https://2oo1s.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tistory-FE642E?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
   
   <h4><b>💡 BOJ 💡</b></h4>
