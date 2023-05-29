@@ -11,19 +11,17 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
   </p>
-
+  
+  <h4><b>🌐 Social 🌐</b></h4>
+  <a href="https://2oo1s.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+  </a>
+  
   <h4><b>💡 BOJ 💡</b></h4>
   
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloitsme)](https://solved.ac/helloitsme)<br>
-
-  <a href="https://blog.naver.com/joowon817/">
-    <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-  </a>
-  
-  <a href="https://2oo1s.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
-  </a>
+ 
 </div>
 
 <!--
