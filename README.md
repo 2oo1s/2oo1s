@@ -21,9 +21,9 @@
   
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloitsme)](https://solved.ac/helloitsme)<br>
- 
+  
+ ![Footer](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=footer)
 </div>
-![Footer](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=footer)
 
 <!--
 **2oo1s/2oo1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
