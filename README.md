@@ -2,7 +2,7 @@
 
 <div align=center>  
   - 👩🏻‍💻 I'm a senior majoring in Software<br>
-  - 🌱 I’m currently learning Python & React
+  - 🌱 I’m currently learning Python, Java and React
   <h4><b>📚 Languages 📚</b></h4>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=C-sharp&logoColor=white"/>
