@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Hi%20!&desc=It's%202oo1's%20Github&fontSize=42&fontAlignY=22&fontAlign=50&descfontsize=33&descAlignY=40&descAlign=50&&animation=twinkling)
 
 <div align="">
-    <a hfef="https://github.com/2oo1s"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact"/></a>
-  
+   <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helloitsme"/></a>
   <div align= left>
      - 👩🏻‍💻 I'm a senior majoring in Software<br>
   - 🌱 I’m currently learning Python, Java and React
@@ -22,7 +21,7 @@
   </p>
   </div>
   
-  <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helloitsme"/></a>
+  <a hfef="https://github.com/2oo1s"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact"/></a>
   
   <div align= left>
     <h4><b>🌐 Social 🌐</b></h4>
