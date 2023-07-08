@@ -6,7 +6,7 @@
      <h2><b>Hi 👋🏻  I'm Joowon Lee</b></h2>
      <h4>
         I'm a senior majoring in Software.<br/>
-        There days, I'm learning Python, Java and React 🌱
+        These days, I'm learning Python, Java and React 🌱
      </h4>
      <h3><b>🛠️ Languages & Tool 🛠️</b></h3>
      <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
