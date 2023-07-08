@@ -14,15 +14,15 @@
      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"/>
      <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
      <br>
+  </div>
+   <a hfef="https://github.com/2oo1s"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact&theme=dark"/></a>
+    <div align=left>
      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
      <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
      <br>
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"> 
      <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white">
-  </p>
   </div>
-  
-  <a hfef="https://github.com/2oo1s"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact&theme=dark"/></a>
   
   <div align= left>
     <h3><b>🌐 Social 🌐</b></h3>
