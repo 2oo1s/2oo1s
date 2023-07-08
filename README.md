@@ -21,7 +21,7 @@
   </p>
   </div>
   
-  <a hfef="https://github.com/2oo1s"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact"/></a>
+  <a hfef="https://github.com/2oo1s"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact&theme=dark"/></a>
   
   <div align= left>
     <h4><b>🌐 Social 🌐</b></h4>
