@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Hi%20!&desc=It's%202oo1's%20Github&fontSize=42&fontAlignY=22&fontAlign=50&descfontsize=33&descAlignY=40&descAlign=50&&animation=twinkling)
 
 <div align="">
-  <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazandi.herokuapp.com/api?handle=helloitsme&theme=light"/></a><br/>
+    <a hfef="https://github.com/2oo1s"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact"/></a>
+  
   <div align= left>
      - 👩🏻‍💻 I'm a senior majoring in Software<br>
   - 🌱 I’m currently learning Python, Java and React
@@ -15,18 +16,18 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
    <br>
-   
-   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-   ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
+
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white">
   </p>
-  
-  <h4><b>🌐 Social 🌐</b></h4>
-  <a href="https://2oo1s.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-FE642E?style=flat-square&logo=Tistory&logoColor=white"/>
-  </a>
   </div>
- 
---- 
+  
+  <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helloitsme"/></a>
+  
+  <div align= left>
+    <h4><b>🌐 Social 🌐</b></h4>
+    <a href="https://2oo1s.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE642E?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  </div>
 
 <!--
 **2oo1s/2oo1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
