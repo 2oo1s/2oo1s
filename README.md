@@ -3,28 +3,29 @@
 <div align="">
    <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helloitsme"/></a>
   <div align= left>
-     - 👩🏻‍💻 I'm a senior majoring in Software<br>
-  - 🌱 I’m currently learning Python, Java and React
-  <h4><b>📚 Languages 📚</b></h4>
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=C-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
-  <br>
-
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
-   <br>
-
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white">
+     <h2><b>Hi 👋🏻  I'm Joowon Lee</b></h2>
+     <h4>
+        I'm a senior majoring in Software.<br/>
+        There days, I'm learning Python, Java and React 🌱
+     </h4>
+     <h3><b>🛠️ Languages & Tool 🛠️</b></h3>
+     <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+     <img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=C-sharp&logoColor=white"/>
+     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"/>
+     <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
+     <br>
+     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
+     <br>
+     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"> 
+     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white">
   </p>
   </div>
   
   <a hfef="https://github.com/2oo1s"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact&theme=dark"/></a>
   
   <div align= left>
-    <h4><b>🌐 Social 🌐</b></h4>
+    <h3><b>🌐 Social 🌐</b></h3>
     <a href="https://2oo1s.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE642E?style=flat-square&logo=Tistory&logoColor=white"/></a>
   </div>
 
