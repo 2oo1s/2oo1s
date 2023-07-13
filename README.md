@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Hi%20!&desc=It's%202oo1's%20Github&fontSize=42&fontAlignY=22&fontAlign=50&descfontsize=33&descAlignY=40&descAlign=50&&animation=twinkling)
 
 <div align="">
-  <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazandi.herokuapp.com/api?handle=helloitsme&theme=light"/></a>
+  <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazandi.herokuapp.com/api?handle=helloitsme&theme=dark"/></a>
   <div align= left>
      <h2><b>Hi 👋🏻  I'm Joowon Lee</b></h2>
      <h4>
