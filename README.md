@@ -9,9 +9,9 @@
         These days, I'm learning Python, Java and React 🌱
      </h4>
      <h3><b>🛠️ Languages & Tool 🛠️</b></h3>
-     <img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=C-sharp&logoColor=white"/>
      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"/>
      <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
+     <img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=C-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
      <br>
   </div>
