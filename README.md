@@ -15,7 +15,7 @@
      <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
      <br>
   </div>
-   <a hfef="https://github.com/2oo1s"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact&theme=onedark&langs_count=6"/></a>
+   <a hfef="https://github.com/2oo1s"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact&theme=onedark&langs_count=6&hide_border=true"/></a>
     <div align=left>
      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
      <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
