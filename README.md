@@ -9,16 +9,16 @@
         These days, I'm learning Java and React 🌱
      </h4>
      <h3><b>🛠️ Languages & Tool 🛠️</b></h3>
-     <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-     <img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=C-sharp&logoColor=white"/>
-     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-     <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
+     <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=C-sharp&logoColor=white"/>
+     <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
+     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
      <br>
   </div>
    <a hfef="https://github.com/2oo1s"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact&theme=onedark&langs_count=6&hide_border=true"/></a>
     <div align=left>
-     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
      <br>
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"> 
      <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white">
