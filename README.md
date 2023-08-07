@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=2oo1's%20Github&fontSize=40&fontAlignY=30&fontAlign=50)
-
 <div align="">
-   <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazandi.herokuapp.com/api?handle=helloitsme&theme=dark"/></a>
+   <img src="https://capsule-render.vercel.app/api?type=shark&color=F79F81&height=200&section=header&text=2oo1's%20Github&fontSize=40&fontAlignY=30&fontAlign=50&\"/>
+   <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=helloitsme"/></a>
   <div align= left>
      <h2><b>Hi 👋🏻  I'm Joowon Lee</b></h2>
      <h4>
@@ -10,7 +9,7 @@
      </h4>
      <h3><b>🛠️ Languages & Tool 🛠️</b></h3>
      <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=C-sharp&logoColor=white"/>
-     <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
+     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
      <br>
