@@ -1,5 +1,5 @@
 <div align="">
-   <img src="https://capsule-render.vercel.app/api?type=shark&color=F79F81&height=200&section=header&text=2oo1's%20Github&fontSize=40&fontAlignY=30&fontAlign=50&\"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=CED8F6&height=180&section=header&text=2oo1's%20Github&fontSize=40&fontAlignY=30&fontAlign=50&\"/>
    <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=helloitsme"/></a>
   <div align= left>
      <h2><b>Hi 👋🏻  I'm Joowon Lee</b></h2>
