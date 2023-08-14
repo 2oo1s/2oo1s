@@ -5,9 +5,14 @@
      <h2><b>Hi 👋🏻  I'm Joowon Lee</b></h2>
      <h4>
         I'm a senior majoring in Software.<br/>
-        These days, I'm learning Java and React 🌱
+        These days, I'm learning👇🏻👇🏻👇🏻<br/><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
      </h4>
-     <h3><b>🛠️ Languages & Tool 🛠️</b></h3>
+     <h3><b>Languages & Tool 🛠️</b></h3>
      <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=C-sharp&logoColor=white"/>
      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -19,12 +24,13 @@
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
      <br>
+       <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"> 
      <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white">
   </div>
-  
+   
   <div align= left>
-    <h3><b>🌐 Social 🌐</b></h3>
+    <h3><b>Social 🌐</b></h3>
     <a href="https://2oo1s.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE642E?style=flat-square&logo=Tistory&logoColor=white"/></a>
   </div>
 
