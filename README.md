@@ -1,6 +1,6 @@
 <div align="">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=CED8F6&height=180&section=header&text=2oo1's%20Github&fontSize=40&fontAlignY=35&fontAlign=50&\"/>
-   <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=helloitsme"/></a>
+   <a href="https://solved.ac/helloitsme"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helloitsme"/></a>
   <div align= left>
      <h2><b>Hi 👋🏻  I'm Joowon Lee</b></h2>
         I'm a senior majoring in Software.<br/>
