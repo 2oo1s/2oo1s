@@ -31,7 +31,6 @@
   <div align= left>
     <h3><b>Study 🤓</b></h3>
     <a href="https://2oo1s.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE642E?style=flat-square&logo=Tistory&logoColor=white"/></a>
-    <a href="https://bald-slope-968.notion.site/CS-Study-42b8784b6e144f4391d9c3f69775dddf?pvs=4"><img src="https://img.shields.io/badge/CS study-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
   </div>
 
 <!--
