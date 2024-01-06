@@ -29,7 +29,7 @@
   </div>
    
   <div align= left>
-    <h3><b>Study 🤓</b></h3>
+    <h3><b>Social 🤓</b></h3>
     <a href="https://2oo1s.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE642E?style=flat-square&logo=Tistory&logoColor=white"/></a>
   </div>
 
