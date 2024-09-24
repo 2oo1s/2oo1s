@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    👇🏻 What I'm learning these days👇🏻<br/><br/>
+    <h3>👇🏻 What I'm learning these days👇🏻<h3>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
     <br><br>
