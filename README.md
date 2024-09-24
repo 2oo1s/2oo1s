@@ -5,7 +5,8 @@
 </div>
 
 <div align="left">
-    These days, I'm learning 👇🏻👇🏻👇🏻<br/><br/>
+    👇🏻 What I'm learning these days👇🏻<br/><br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
     <br><br>
