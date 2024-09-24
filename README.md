@@ -23,8 +23,10 @@
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-FF4154?style=flat-square&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=FFFFFF"/>
     <br>
-    <h3><b>Social 🤓</b></h3>
+    <h3><b>Social & Portfolio 🤓</b></h3>
     <a href="https://2oo1s.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE642E?style=flat-square&logo=Tistory&logoColor=white"/></a>
+    <a href="https://github.com/2oo1s/2oo1s-Archive"><img src="https://img.shields.io/badge/Porfolio-777BB4?style=flat-square&logo=starship&logoColor=white"/></a>
+    <p>👆🏻Click on👆🏻 the badge to watch my <b>Archivement</b>!</p>
 </div>
 <br>
 <div align="left">
