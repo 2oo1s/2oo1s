@@ -1,12 +1,11 @@
-<div align="left">
+<div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Margarine&size=30&duration=4000&pause=1500&color=91ACFFFF&random=false&width=300&lines=Hi%2C+I'm+Joowon+Lee+=)"/>
     </a>
 </div>
 
-<div align="left">
+<div align="center">
     👇🏻 What I'm learning these days👇🏻<br/><br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
     <br><br>
@@ -46,7 +45,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
     <a href="https://solved.ac/helloitsme"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helloitsme"/></a>
     <a href="https://github.com/2oo1s"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=typescript,jupyter%20notebook,python"/></a>
 </div>
