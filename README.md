@@ -8,6 +8,8 @@
     <h3>👇🏻 What I'm learning these days👇🏻</h3>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/> 
     <br><br>
     <table style="width: 100%; border-collapse: collapse;">
         <tr>
