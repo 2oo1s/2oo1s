@@ -49,5 +49,6 @@
     <a href="https://github.com/2oo1s"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2oo1s&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=typescript,jupyter%20notebook,python"/></a> &nbsp;
     <a href="https://solved.ac/helloitsme"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helloitsme"/></a>
 </div>
-
-[![rankit-badge](https://badge.rankit.run/badge?name=2oo1s)](https://www.rankit.run)
+<div align="center">
+    <a href="https://www.rankit.run"><img src="https://badge.rankit.run/badge?name=2oo1s"/></a>
+</div>
